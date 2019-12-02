@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="Rojo">Rojo</string>
+    <string name="Amarillo">Amarillo</string>
+    <string name="Url">Url</string>
+    <string name="TColor">Color</string>
+    <string name="Result">Result</string>
+    <string name="Volver">Volver</string>
+    <string name="Numero1"></string>
+    <string name="Numero2"></string>
+    <string name="Resultado">Resultado</string>
+    <string name="Resultado2">Resultado2</string>
+</resources>
